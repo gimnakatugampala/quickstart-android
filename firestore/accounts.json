@@ -2,6 +2,6 @@
 	"users": [{
 		"localId": "1",
 		"email": "test@mailinator.com",
-		"passwordHash": "XohImNooBHFR0OVvjcYpJ3NgPQ1qq73WKhHvch0VQtg=",
+		"passwordHash": "XohImNooBHFR0OVvjcYpJ3NgPQ1qq73WKhHvch0VQtg",
 	}]
 }
